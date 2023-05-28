@@ -6,6 +6,10 @@
     <a href="https://github.com/wannabewastaken/xmlrpc-dos#usage">Usage</a>
     ·
     <a href="https://github.com/wannabewastaken/xmlrpc-dos#how+to+install">Install</a>
+    ·
+    <a href="https://github.com/wannabewastaken/xmlrpc-dos#disclaimer">Disclaimer</a>
+    ·
+    <a href="https://github.com/wannabewastaken/xmlrpc-dos#Reference">Reference</a>
 </h6>
 
 <p align=center>
@@ -67,3 +71,11 @@
 > git clone https://github.com/wannabewastaken/xmlrpc-dos
 ```
 </details>
+	
+### Disclaimer
+The use of the xmlrpc-ddos is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+	
+### Reference
+<kbd> <br> WP XML-RPC DoS https://gist.github.com/ethicalhack3r/60a3ea6d7c86c7ace891 <br> </kbd> <br><br>
+<kbd> <br> Adelittle repo https://github.com/Adelittle/wpdos <br> </kbd> <br><br>
+<kbd> <br> Adelittle blog https://www.nakanosec.com/2022/03/riset-xmlrpc-ddos-attack-bypass-waf.html <br> </kbd>
