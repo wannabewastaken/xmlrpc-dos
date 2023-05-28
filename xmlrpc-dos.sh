@@ -35,6 +35,7 @@ Usage: ./${0} <url>
 (e.g. 'https://dummy.com' or 'http://dummy.com')"
 }
 
+# Send packet
 send_packet() {
     if [[ $(curl -s -k -i -X POST "${1}/xmlrpc.php" \
                        -H "Content-Type: text/html" \
