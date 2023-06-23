@@ -73,7 +73,7 @@
 </details>
 	
 ### Disclaimer
-The use of the xmlrpc-ddos is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+The use of the xmlrpc-dos is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 	
 ### Reference
 <kbd> <br> WP XML-RPC DoS https://gist.github.com/ethicalhack3r/60a3ea6d7c86c7ace891 <br> </kbd> <br><br>
