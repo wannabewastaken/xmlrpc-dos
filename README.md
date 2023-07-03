@@ -5,7 +5,7 @@
 <h6 align=center>
     <a href="https://github.com/wannabewastaken/xmlrpc-dos#usage">Usage</a>
     ·
-    <a href="https://github.com/wannabewastaken/xmlrpc-dos#how+to+install">Install</a>
+    <a href="https://github.com/wannabewastaken/xmlrpc-dos#how-to-install">Install</a>
     ·
     <a href="https://github.com/wannabewastaken/xmlrpc-dos#disclaimer">Disclaimer</a>
     ·
